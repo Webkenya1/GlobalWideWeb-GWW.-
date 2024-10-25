@@ -6,5 +6,5 @@ student name
 - 📫 How to reach me ...
 
 <!---
-Webkenya1/Webkenya1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Webkenya1/GlobalWorldwideWeb(gww.) is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Qaaaa--->
